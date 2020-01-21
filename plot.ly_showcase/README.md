@@ -1,5 +1,7 @@
 this folder stores my creations made in plot.ly, which helps me drawing gorgeous figures.
 
+↓↓ Have a check! ↓↓
+
 [Tinygrail: overall trade status](https://oalvay.github.io/Projects/plot.ly_showcase/bgm_tinygrail/overall)  
 [Tinygrail: detailed trade status](https://oalvay.github.io/Projects/plot.ly_showcase/bgm_tinygrail/detailed)  
 
