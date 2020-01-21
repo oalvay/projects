@@ -1,6 +1,3 @@
 ### UCL student's math modules exam performance analysis
 
 this repo save an HTML file produced by plotly, which includes data from the provisional result in the academic year 17-18.
-
-Click and have a check!
-https://oalvay.github.io/ucl_math/
